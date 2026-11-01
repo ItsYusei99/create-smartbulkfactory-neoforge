@@ -1,0 +1,8 @@
+{
+  "createsmartbulkfactory.gui.variants": "Connected alternatives: ",
+  "createsmartbulkfactory.gui.on": "ON",
+  "createsmartbulkfactory.gui.off": "OFF",
+  "createsmartbulkfactory.gui.variants.tip": "Connect extra input gauges (e.g. other kinds of planks or logs) and they become the only alternatives this gauge may use when the main one runs out. In crafting mode, set their amount by leaving them out of the grid.",
+  "createsmartbulkfactory.gui.batch": "Max crafts per request: %s",
+  "createsmartbulkfactory.gui.batch.tip": "Click to cycle. Crafters craft the whole batch at once."
+}

@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.itsyusei99.smartbulkfactory.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CrafterUnpackingHandlerMixin",
+    "FactoryPanelBehaviourMixin",
+    "GroupedItemsAccessor",
+    "MechanicalCrafterBlockEntityMixin",
+    "PackageRepackageHelperMixin",
+    "RecipeGridHandlerMixin"
+  ],
+  "client": [
+    "client.FactoryPanelScreenMixin",
+    "client.ScreenAccess",
+    "client.ScreenInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
