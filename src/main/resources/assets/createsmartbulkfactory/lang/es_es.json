@@ -1,0 +1,8 @@
+{
+  "createsmartbulkfactory.gui.variants": "Alternativas conectadas: ",
+  "createsmartbulkfactory.gui.on": "SÍ",
+  "createsmartbulkfactory.gui.off": "NO",
+  "createsmartbulkfactory.gui.variants.tip": "Conecta gauges de entrada extra (por ejemplo otros tipos de tablones o troncos) y serán las únicas alternativas que esta gauge puede usar cuando se acabe la principal. En modo crafteo, déjalas fuera de la cuadrícula.",
+  "createsmartbulkfactory.gui.batch": "Máx. crafteos por pedido: %s",
+  "createsmartbulkfactory.gui.batch.tip": "Clic para cambiar. Los crafters hacen todo el lote de una vez."
+}
